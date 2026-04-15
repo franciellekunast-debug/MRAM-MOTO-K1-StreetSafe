@@ -50,3 +50,14 @@ Pull requests com código de simulação, dados de teste ou revisão de método 
 
 ---
 **Desenvolvido com assistência de IA Muse Spark • Feito no celular • Do Brasil pro mundo** 🇧🇷
+
+---
+
+## Autoria e Licença
+
+**Criadora:** Francielle Kunast @franciellekunast-debug  
+**Co-desenvolvimento:** IA Muse Spark (Meta)  
+**Primeiro commit público:** 14 de abril de 2026  
+**Licença:** [CC-BY-4.0](LICENSE) - Uso exige atribuição  
+
+**Importante:** Conceito teórico em estágio inicial. NÃO validado para uso real em veículos. Geometria obtida por ~10.000 simulações evolutivas PyGMO. Para uso comercial ou pesquisa, abrir uma Issue.
