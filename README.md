@@ -1,7 +1,4 @@
-<a href="https://doi.org/10.5281/zenodo.19600223"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19600223.svg" alt="DOI"></a>
-# MRAM-MOTO 🏍️
-
-**Conceito de célula auxética para pesquisa em aplicações de motocicletas**
+<a href="https://doi.org/10.5281/zenodo.16750937"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16750937.svg" alt="DOI"></a>[[▶️ Assistir Lançamento](https://img.shields.io/badge/▶️_Assistir_Lançamento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/francielle-kunast-possari-calazans-785a202a5_openscience-engenharia-inovaaexaeto-activity-7450569613093826561-fI44)
 
 [Status](https://img.shields.io/badge/Status-Conceitual-yellow)
 [Poisson](https://img.shields.io/badge/Poisson--1.67_teórico-blue)
