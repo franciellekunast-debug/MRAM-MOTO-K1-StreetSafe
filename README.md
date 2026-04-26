@@ -1,7 +1,20 @@
-g> **⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL** 
+
+ ⚠️ TECNOLOGIA PROPRIETÁRIA - PATENTE PENDENTE
+
+MRAM-MOTO® K1 StreetSafe é segredo industrial de Francielle Kunast.
+PATENTE PENDENTE BR 10 2026 XXXXXX-X | LEI 9.279/96
+
+Geometria, dimensões e código NÃO são públicos.
+Uso comercial, fabricação ou engenharia reversa proibidos sem contrato.
+
+LICENCIAMENTO: mrammotooficial@gmail.com
+NDA obrigatório antes de qualquer disclosure técnico.
+
+DOI: 10.5281/zenodo.16750937
+g>##**⚠️ AVISO LEGAL - PROPRIEDADE INTELECTUAL** 
 > **MRAM-MOTO® K1 StreetSafe** é marca em processo de registro por Francielle Kunast (2026). 
 > **Autoria comprovada:** DOI [10.5281/zenodo.16750937](https://doi.org/10.5281/zenodo.16750937) - 16/ABR/2026 
-> **Licença:** [CC BY-NC-SA 4.0](LICENSE) - Uso não-comercial permitido com atribuição e compartilhamento pela mesma licença. Uso comercial da marca e do código proibido sem licença específica.
+
 <a href="https://doi.org/10.5281/zenodo.16750937"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16750937.svg" alt="DOI"></a>[[▶️ Assistir Lançamento](https://img.shields.io/badge/▶️_Assistir_Lançamento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/francielle-kunast-possari-calazans-785a202a5_openscience-engenharia-inovaaexaeto-activity-7450569613093826561-fI44)
 
 [Status](https://img.shields.io/badge/Status-Conceitual-yellow)
@@ -15,17 +28,6 @@ Este repositório documenta um estudo conceitual de geometria auxética para mot
 
 **Todos os valores são resultados teóricos de simulação e NÃO foram validados experimentalmente.**
 
-## Especificações Técnicas v1.0 - Teóricas
-
-| Parâmetro | Valor | Unidade |
-| --- | --- | --- |
-| **Altura (H)** | 9.98 | mm |
-| **Largura (L)** | 2.30 | mm |
-| **Espessura (T)** | 0.24 | mm |
-| **Ângulo** | 62.5 | ° |
-| **Raio superior (rh)** | 2.52 | mm |
-| **Raio inferior (rl)** | 1.02 | mm |
-| **Poisson estimado** | -1.67 | - |
 
 ## ⚠️ Disclaimer Técnico e de Segurança
 
@@ -54,11 +56,3 @@ Pull requests com código de simulação, dados de teste ou revisão de método 
 
 ---
 
-## Autoria e Licença
-
-**Criadora:** Francielle Kunast @franciellekunast-debug    
-**Primeiro commit público:** 14 de abril de 2026  
-
-**Licença:** [CC BY-NC-SA 4.0](LICENSE) - Uso não-comercial apenas
-
-**Licença:** [CC BY-NC-SA 4.0](LICENSE) - Uso não-comercial apenas. Para uso comercial, contate a autora.
