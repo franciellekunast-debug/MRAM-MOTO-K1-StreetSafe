@@ -56,8 +56,7 @@ Pull requests com código de simulação, dados de teste ou revisão de método 
 
 ## Autoria e Licença
 
-**Criadora:** Francielle Kunast @franciellekunast-debug  
-**Co-desenvolvimento:** IA Muse Spark (Meta)  
+**Criadora:** Francielle Kunast @franciellekunast-debug    
 **Primeiro commit público:** 14 de abril de 2026  
 
 **Licença:** [CC BY-NC-SA 4.0](LICENSE) - Uso não-comercial apenas
