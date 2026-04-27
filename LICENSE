@@ -1,40 +1,21 @@
 # LICENÇA MRAM-MOTO® K1 StreetSafe v1.0
 Copyright (c) 2026 Francielle Kunast. Todos os direitos reservados.
 
-**PATENTE PENDENTE:** BR 10 2026 XXXXXX-X | **DOI:** 10.5281/zenodo.16750937
+**PATENTE PENDENTE:** Protocolo INPI depositado em 26/04/2026 | **DOI:** 10.5281/zenodo.16750937
 
-## 1. CONCESSÃO DE USO - "VEJA E TESTE GRÁTIS"
+## 1. USO PERMITIDO - GRATUITO
+Você pode: Ver, simular e fabricar até 3 (três) protótipos para teste interno ou acadêmico.
 
-Você PODE, gratuitamente e sem pedir permissão:
+## 2. USO PROIBIDO - EXIGE LICENÇA COMERCIAL
+Você NÃO pode: Fabricar 4 ou mais unidades, vender, usar em produto comercial ou fazer engenharia reversa sem contrato assinado.
 
-1. **Ver** o código, geometria e documentação deste repositório.
-2. **Testar** em ambiente de simulação computacional.
-3. **Fabricar até 3 (três) protótipos físicos** para fins exclusivos de validação, pesquisa acadêmica ou teste de bancada interno.
-4. **Publicar artigos científicos** citando o DOI acima.
+**VIOLAÇÃO:** Multa de R$ 500.000,00 OU 10x o faturamento bruto, o que for maior, + 15% de royalties retroativos. Art. 195 da Lei 9.279/96.
 
-## 2. RESTRIÇÃO COMERCIAL - "PRODUZIU, PAGOU"
+## 3. LICENCIAMENTO
+Contato: mrammotooficial@gmail.com | Assunto: LICENCIAMENTO MRAM-K1
+Arquivos de produção estão em repositório privado. Acesso só com NDA + Contrato.
 
-Você NÃO PODE, sem contrato assinado com a autora:
+## 4. FORO
+Comarca de São Paulo/SP, Brasil.
 
-1. **Fabricar 4 ou mais unidades** para qualquer fim.
-2. **Vender, alugar, doar ou distribuir** qualquer produto físico ou digital derivado desta tecnologia.
-3. **Usar em produto comercial**, linha de produção, veículo de frota, competição ou equipamento vendido a terceiros.
-4. **Incorporar em outro produto** que gere receita direta ou indireta.
-5. **Fazer engenharia reversa** para criar tecnologia similar com fim comercial.
-
-**Violação do item 2 implica em multa de 10x o valor de faturamento bruto obtido com a tecnologia + royalties de 15% retroativos, conforme Art. 195 da Lei 9.279/96.**
-
-## 3. COMO LICENCIAR PARA PRODUÇÃO
-
-1. **Assinar NDA** - Modelo enviado após contato.
-2. **Assinar Contrato de Licenciamento** - Royalties ou taxa fixa.
-3. **Receber acesso ao Repo Cofre** `mram-k1-core` com arquivos de produção.
-
-**Contato Comercial:** mrammotooficial@gmail.com  
-**Assunto:** LICENCIAMENTO MRAM-K1
-
-## 4. ISENÇÃO DE GARANTIA
-Esta tecnologia é fornecida "NO ESTADO EM QUE SE ENCONTRA". Sem garantia de performance ou segurança. Teste por sua conta e risco. A autora não se responsabiliza por acidentes.
-
----
-**Ao clonar, fazer fork ou baixar este repositório, você concorda automaticamente com todos os termos acima.**
+**Ao baixar este repositório, você concorda com todos os termos acima.**
